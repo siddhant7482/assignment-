@@ -1,0 +1,4 @@
+com\example\agent\TravelAgentResourceTest.class
+com\example\taxi\CustomerResourceTest.class
+com\example\taxi\TaxiBookingResourceTest.class
+com\example\taxi\GuestBookingResourceTest.class
